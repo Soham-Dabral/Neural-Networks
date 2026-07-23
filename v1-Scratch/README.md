@@ -50,7 +50,7 @@ NeuralNetwork
 
 Each neuron computes
 
-```Latex
+```LaTeX
 [
 $y = \sum_i w_i x_i + b$
 ]
