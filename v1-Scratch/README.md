@@ -52,7 +52,7 @@ Each neuron computes
 
 ```Latex
 [
-y = \sum_i w_i x_i + b
+$y = \sum_i w_i x_i + b$
 ]
 ```
 
