@@ -50,9 +50,11 @@ NeuralNetwork
 
 Each neuron computes
 
+```Latex
 [
 y = \sum_i w_i x_i + b
 ]
+```
 
 The outputs from one layer become the inputs of the next layer.
 
